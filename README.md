@@ -89,11 +89,6 @@ I have experience working with academic and personal projects.
 ###
 
 <h2 data-importer="text" align="left">Databases, Cloud & Deployment</h2>
-
-###
-
-<br clear="both">
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
