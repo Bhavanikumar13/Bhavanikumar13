@@ -1,13 +1,20 @@
 <h1 data-importer="text" align="left">Hi.... 👋 I'm Yelleti Bhavanikumar</h1>
 
 ###
-
 <p data-importer="text" align="left">I create clean and creative designs using Canva and build modern web applications using full-stack technologies. I enjoy combining creativity and coding to develop engaging digital experiences.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=WEB+DESIGNER;WEB+DEVELOPER;DESIGNER+%26+DEVELOPER" alt="Typing SVG" />
+</p>
 
 ###
+## 🌐 Connect With Me
 
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/bhavani-kumar-a282832b7?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+<p align="center">
+
+<a href="https://portfolio-ten-sigma-49.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/bhavani-kumar-a282832b7?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
@@ -15,29 +22,37 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-</div>
+</p>
+
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
-###
+<img align="right" height="300" src="https://media.tenor.com/l3adfv_oNYYAAAAi/bubu-book.gif" alt="Reading GIF"/>
 
-<br clear="both">
+<p align="left">
+B.Tech – Information Technology<br>
+JNTU-GV College of Engineering<br>
+2023 – 2027 (Pursuing)<br>
+<img src="https://img.shields.io/badge/Current_Score-73%25-blue?style=flat-square">
+<br>
+  
+Intermediate (MPC)<br>
+Narayana Junior College, Srikakulam<br>
+2021 – 2023<br>
+<img src="https://img.shields.io/badge/Score-94.5%25-brightgreen?style=flat-square">
+<br>
 
-<p data-importer="text" align="left">B.Tech – Information Technology<br>JNTU-GV College of Engineering<br>2023 – 2027 (Pursuing) • 73%<br><br>Intermediate (MPC)<br>Narayana Junior College, Srikakulam<br>2021 – 2023 • 94.5%<br><br>Secondary School (SSC)<br>P.S.N.M.P.L High School, Srikakulam<br>2021 • 95.6%</p>
+Secondary School (SSC)<br>
+P.S.N.M.P.L High School, Srikakulam<br>
+2021<br>
+<img src="https://img.shields.io/badge/Score-95.6%25-orange?style=flat-square">
+</p>
 
-###
-
-<div data-importer="image" align="right">
-  <img data-importer="image" height="200" src="https://media.tenor.com/l3adfv_oNYYAAAAi/bubu-book.gif"  />
-</div>
-
-###
+<br clear="right">
 
 <h2 data-importer="text" align="left">Languages & Web Development</h2>
 
