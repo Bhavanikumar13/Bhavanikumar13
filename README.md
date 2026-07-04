@@ -34,24 +34,16 @@
 <img align="right" height="300" src="https://media.tenor.com/l3adfv_oNYYAAAAi/bubu-book.gif" alt="Reading GIF"/>
 
 <p align="left">
-B.Tech – Information Technology<br>
+
+<b>B.Tech – Information Technology</b><br>
 JNTU-GV College of Engineering<br>
 2023 – 2027 (Pursuing)<br>
 <img src="https://img.shields.io/badge/Current_Score-73%25-blue?style=flat-square">
 <br>
-  
-Intermediate (MPC)<br>
-Narayana Junior College, Srikakulam<br>
-2021 – 2023<br>
-<img src="https://img.shields.io/badge/Score-94.5%25-brightgreen?style=flat-square">
-<br>
 
-Secondary School (SSC)<br>
-P.S.N.M.P.L High School, Srikakulam<br>
-2021<br>
-<img src="https://img.shields.io/badge/Score-95.6%25-orange?style=flat-square">
+I am particularly interested in <b>Full Stack Development</b>, <b>UI/UX Design</b>, <b>3D Web Experiences</b>, and <b>Interactive Applications</b>. I enjoy creating visually appealing designs and developing modern web applications that deliver engaging and user-friendly experiences.
+I have experience working with academic and personal projects.
 </p>
-
 <br clear="right">
 
 <h2 data-importer="text" align="left">Languages & Web Development</h2>
@@ -74,7 +66,12 @@ P.S.N.M.P.L High School, Srikakulam<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js"/>
+  <img width="12" />
+<img src="https://skillicons.dev/icons?i=django" height="40" alt="Django"/>
 </div>
+</div> 
+
 
 ###
 
@@ -93,26 +90,28 @@ P.S.N.M.P.L High School, Srikakulam<br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=md" height="40" alt="Overleaf"/>
+<img width="12" />
+<img src="https://cdn.simpleicons.org/overleaf/47A141" height="40" alt="Overleaf"/>
+
+<img src="https://skillicons.dev/icons?i=windows" height="40" alt="MS Office"/>
 </div>
 
 ###
 
-<h2 data-importer="text" align="left">Stats</h2>
 
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=Bhavanikumar13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Bhavanikumar13/Bhavanikumar13/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
