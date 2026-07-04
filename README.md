@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <img src="https://komarev.com/ghpvc/?username=Bhavanikumar13&label=Visitors&style=for-the-badge&color=blue" />
+
 </p>
 
 
@@ -144,3 +146,20 @@ I have experience working with academic and personal projects.
   <img src="https://img.shields.io/badge/Antigravity_IDE-5C6BC0?style=for-the-badge"/>
 </p>
 
+<h2 align="left">GitHub Stats</h2>
+
+<img align="right" height="250" src="https://github-readme-stats.shion.dev/api?username=Bhavanikumar13&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Bhavanikumar13&theme=dark&hide_border=false" alt="GitHub Streak"/><br><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavanikumar13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+
+<br clear="right">
+<h2 align="left"> Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavanikumar13&theme=github-compact&hide_border=true"/>
+
+</div>
