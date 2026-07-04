@@ -145,17 +145,33 @@ I have experience working with academic and personal projects.
   <img src="https://img.shields.io/badge/Kiro-5B5BD6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Antigravity_IDE-5C6BC0?style=for-the-badge"/>
 </p>
+<h2 align="left"> GitHub Stats</h2>
 
-<h2 align="left">GitHub Stats</h2>
+<!-- Right -->
+<img
+  align="right"
+  height="165"
+  src="https://github-readme-stats.shion.dev/api?username=Bhavanikumar13&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
+/>
 
-<img align="right" height="250" src="https://github-readme-stats.shion.dev/api?username=Bhavanikumar13&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<!-- Left -->
+<img
+  height="165"
+  src="https://streak-stats.demolab.com?user=Bhavanikumar13&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Bhavanikumar13&theme=dark&hide_border=false" alt="GitHub Streak"/><br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavanikumar13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
+<br><br>
+
+<img
+  height="165"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bhavanikumar13&theme=github_dark&hide_border=true&layout=compact&langs_count=8"
+  alt="Top Languages"
+/>
 
 <br clear="right">
+
 <h2 align="left"> Contribution Graph</h2>
 
 <div align="center">
