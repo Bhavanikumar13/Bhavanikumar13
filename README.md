@@ -121,12 +121,8 @@ I have experience working with academic and personal projects.
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/🌱_PlantText-UML-4CAF50?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
@@ -155,10 +151,9 @@ I have experience working with academic and personal projects.
 <!-- Left -->
 <img
   height="165"
-  src="https://streak-stats.demolab.com?user=Bhavanikumar13&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=Bhavanikumar13&theme=github-dark&hide_border=true"
   alt="GitHub Streak"
 />
-
 <br><br>
 
 <img
