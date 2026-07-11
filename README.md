@@ -108,7 +108,7 @@ I have experience working with academic and personal projects.
 </div>
 
 ###
-## experience with and have worked on.
+<h2 data-importer="text" align="left">experience with and worked on.</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
