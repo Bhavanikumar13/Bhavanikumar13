@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<a href="https://portfolio-ten-sigma-49.vercel.app" target="_blank">
+<a href="https://yelleti-port.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/bhavani-kumar-a282832b7?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
