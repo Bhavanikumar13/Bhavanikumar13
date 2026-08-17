@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Pro.png" alt="Banner" width="100%">
+  <img src="./assets/Pro.png" alt="Banner" width="100%">
 </p>
 <h1 data-importer="text" align="left">Hi.... 👋 I'm Yelleti Bhavanikumar</h1>
 
